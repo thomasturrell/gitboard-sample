@@ -7,6 +7,7 @@ Provides a repository with reasonable data and history to be able to test and de
 Git history to emulate different valid states of issues.
 
 ```
+| * commit (tag: custom-tag)
 | * commit with fix of issue #977       → in progress
 | branch-without-number
 |/
