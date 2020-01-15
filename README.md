@@ -7,17 +7,18 @@ Provides a repository with reasonable data and history to be able to test and de
 Git history to emulate different valid states of issues.
 
 ```
-* issue #153
-* issue #209
-* issue #959
-* issue #411
-* issue #389
-* issue #432
-* issue #334
-* issue #293
-* issue #107
-* issue #281
-* issue #253
+* issue #412 (tag: v3.0)                → released (in v3.0)
+* issue #153                            → released (in v3.0)
+* issue #209                            → released (in v3.0)
+* issue #959                            → released (in v3.0)
+* issue #411                            → released (in v3.0)
+* issue #389                            → released (in v3.0)
+* issue #432                            → released (in v3.0)
+* issue #334                            → released (in v3.0)
+* issue #293                            → released (in v3.0)
+* issue #107                            → released (in v3.0)
+* issue #281                            → released (in v3.0)
+* issue #253                            → released (in v3.0)
 * issue #210 (tag: v2.1)                → released (in v2.1)
 * issue #635 (tag: v2.0)                → released (in v2.0)
 * issue #459                            → released (in v2.0); ❗️ not selected
